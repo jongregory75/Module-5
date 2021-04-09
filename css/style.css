@@ -1,0 +1,58 @@
+<style>
+
+h1.topCenter {
+    text-align: center;
+}
+
+h2.bold { 
+    font-style: bold;
+}
+
+p.red {
+    color: red;
+}
+
+p.blue {
+    color: blue;
+}
+
+p.green {
+    color: green;
+}
+
+p.large {
+    font-size:x-large;
+}
+
+p.small {
+    font-size:smaller;
+}
+
+p.centered {
+     text-align:center;
+}   
+
+p.styledFont {
+    color: green;
+    font-weight: bold;
+}
+
+p.bold { 
+    font-weight:bold;
+}
+
+p.diff_font {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p.combo {
+    font-weight: bold;
+    color: orange;
+    font-size: x-large;
+}
+
+#lastImg {
+    border: 5px solid orange;
+    border-radius: 8px;
+}
+</style>
